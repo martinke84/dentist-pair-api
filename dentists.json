@@ -1,0 +1,73 @@
+[
+  {
+    "id": 1,
+    "name": "Bright Smile Family Dental",
+    "address": "1450 Peachtree St NE, Atlanta, GA",
+    "zip": "30309",
+    "city": "Atlanta",
+    "state": "GA",
+    "lat": 33.7984,
+    "lng": -84.3883,
+    "phone": "(404) 555-0101",
+    "specialties": [
+      "General",
+      "Pediatric"
+    ],
+    "hours": "Mon-Fri 8am-5pm",
+    "bookingUrl": "",
+    "acceptingNewPatients": true
+  },
+  {
+    "id": 2,
+    "name": "Midtown Cosmetic Dentistry",
+    "address": "780 W Peachtree St, Atlanta, GA",
+    "zip": "30308",
+    "city": "Atlanta",
+    "state": "GA",
+    "lat": 33.7718,
+    "lng": -84.3757,
+    "phone": "(404) 555-0102",
+    "specialties": [
+      "Cosmetic",
+      "Implants"
+    ],
+    "hours": "Mon-Thu 9am-6pm, Fri 9am-2pm",
+    "bookingUrl": "",
+    "acceptingNewPatients": true
+  },
+  {
+    "id": 3,
+    "name": "Park Avenue Dental Care",
+    "address": "210 Park Ave NE, Atlanta, GA",
+    "zip": "30303",
+    "city": "Atlanta",
+    "state": "GA",
+    "lat": 33.7525,
+    "lng": -84.3888,
+    "phone": "(404) 555-0103",
+    "specialties": [
+      "General",
+      "Orthodontics"
+    ],
+    "hours": "Tue-Sat 8am-4pm",
+    "bookingUrl": "",
+    "acceptingNewPatients": true
+  },
+  {
+    "id": 4,
+    "name": "Sunrise Pediatric Dentistry",
+    "address": "95 Marietta St NW, Atlanta, GA",
+    "zip": "30303",
+    "city": "Atlanta",
+    "state": "GA",
+    "lat": 33.7525,
+    "lng": -84.3888,
+    "phone": "(404) 555-0104",
+    "specialties": [
+      "Pediatric"
+    ],
+    "hours": "Mon-Fri 7:30am-4:30pm",
+    "bookingUrl": "",
+    "acceptingNewPatients": false
+  }
+]
